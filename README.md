@@ -1,4 +1,4 @@
-# Nagasai Vuppala — Futuristic AI & Systems Portfolio
+# Nagasai Vuppala
 
 A high-performance, single-page portfolio web application built with React 19, TypeScript, Tailwind CSS, and Lucide Icons, featuring a Sci-Fi HUD aesthetic, interactive system sandboxes, and Panda AI Digital Twin.
 
